@@ -21,3 +21,7 @@ $ make clean
 $ make 
 $ make exec
 ```
+
+## Sources 
+
+- [Crafting Interpreters Chpater III - A Bytcode Virtual Machine](https://craftinginterpreters.com/a-bytecode-virtual-machine.html)
